@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Assistant</string>
+    <string name="a11y_desc">আপনার কমান্ড অনুযায়ী স্ক্রিন পড়তে, ট্যাপ করতে ও টাইপ করতে এই অ্যাপকে অনুমতি দেয়।</string>
+</resources>
